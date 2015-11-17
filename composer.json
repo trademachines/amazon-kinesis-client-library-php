@@ -1,5 +1,5 @@
 {
-    "name": "murnieza/amazon-kinesis-client-library-php",
+    "name": "trademachines/amazon-kinesis-client-library-php",
     "description": "Amazon Kinesis Wrapper Class",
     "keywords": ["Kinesis", "AWS", "Amazon Kinesis"],
     "type": "library",
